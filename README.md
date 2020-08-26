@@ -7,3 +7,5 @@ I'm a Computer Science, Data Science and video game modding enthusiast and a tin
 * Kaggle: https://www.kaggle.com/yard1pl
 * LinkedIn: https://www.linkedin.com/in/yard1/
 * Steam Workshop: https://steamcommunity.com/profiles/76561198045710503/myworkshopfiles/
+
+[![Antoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yard1)](https://github.com/anuraghazra/github-readme-stats)
