@@ -1,6 +1,6 @@
 # Hi there, I'm Antoni 👋
 
-I'm a Computer Science, Data Science and video game modding enthusiast and a tinkerer at heart. I hold a BSc in Computer Science and Econometrics. I am currently a MSc student at AGH UST in Kraków. Feel free to take a look around my various repositories and projects :)
+I'm a Computer Science, Data Science and video game modding enthusiast and a tinkerer at heart. I hold an MSc in Computer Science and Econometrics from AGH UST in Kraków. Feel free to take a look around my various repositories and projects :)
 
 Currently, I am a Software Engineer @ Anyscale.
 
