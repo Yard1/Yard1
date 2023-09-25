@@ -8,6 +8,7 @@ Aside from my own projects, I have contributed to or took a leading role in seve
 
 * [PyCaret, an open source, low-code machine learning library in Python](https://github.com/pycaret/pycaret)
 * [Ray, an open source framework for building distributed applications](https://github.com/ray-project/ray)
+* [RayLLM, library for LLMs on Ray](https://github.com/ray-project/ray-llm)
 * [tune-sklearn, a scikit-learn API on Ray Tune](https://github.com/ray-project/tune-sklearn)
 * [xgboost-ray, distributed XGBoost on Ray](https://github.com/ray-project/xgboost_ray)
 * [lightgbm-ray, distributed LightGBM on Ray](https://github.com/ray-project/lightgbm_ray)
