@@ -2,7 +2,7 @@
 
 I'm a Computer Science and Machine Learning/AI enthusiast and a tinkerer at heart. I hold an MSc in Computer Science and Econometrics from AGH UST in Kraków. Feel free to take a look around my various repositories and projects!
 
-Currently, I am a Software Engineer @ Anyscale.
+Currently, I am a Senior Software Engineer @ Anyscale.
 
 Aside from my own projects, I have contributed to or took a leading role in several open source projects. The most notable include:
 
