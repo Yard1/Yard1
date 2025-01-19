@@ -2,7 +2,7 @@
 
 I'm passionate about distributed computing, LLM/Gen AI systems and open source. I built multiple 0 to 1 systems and products working with diverse teams, tools and constraints. Alawys optimizing for execution, performance and comprehensive solutions to challenging problems.
 
-Currently, I am a Member of Technical Staff @ OpenAI.
+Currently, I am a Member of Technical Staff @ OpenAI. Unfortunately, that means most of my current work will be private.
 
 Aside from my own projects, I have contributed to or took a leading role in several open source projects. The most notable include:
 * [vLLM, A high-throughput and memory-efficient inference and serving engine for LLMs](https://github.com/vllm-project/vllm) (commiter)
