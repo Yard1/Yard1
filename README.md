@@ -4,13 +4,11 @@ I'm passionate about distributed computing, LLM/Gen AI systems and open source. 
 
 Currently, I am a Member of Technical Staff @ Anthropic. Unfortunately, that means most of my current work will be private.
 
-Aside from my own projects, I have contributed to or took a leading role in several open source projects. The most notable include:
+Former/inactive projects:
 * [vLLM, A high-throughput and memory-efficient inference and serving engine for LLMs](https://github.com/vllm-project/vllm) (commiter)
 * [Ray, an open source framework for building distributed applications](https://github.com/ray-project/ray) (commiter)
 * [RayLLM, library for LLMs on Ray](https://github.com/ray-project/ray-llm) (maintainer)
 * [Equestria at War, a Hearts of Iron IV modification](https://github.com/EaW-Team/equestria_dev) (maintainer)
-
-Former/inactive projects:
 * [PyCaret, an open source, low-code machine learning library in Python](https://github.com/pycaret/pycaret) (maintainer)
 * [tune-sklearn, a scikit-learn API on Ray Tune](https://github.com/ray-project/tune-sklearn) (maintainer)
 * [xgboost-ray, distributed XGBoost on Ray](https://github.com/ray-project/xgboost_ray) (maintainer)
@@ -22,5 +20,3 @@ Former/inactive projects:
  
 * LinkedIn: https://www.linkedin.com/in/yard1/
 * Steam Workshop: https://steamcommunity.com/profiles/76561198045710503/myworkshopfiles/
-
-[![Antoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yard1)](https://github.com/anuraghazra/github-readme-stats)
